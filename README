@@ -1,2 +1,7 @@
 Notebook for Hypothesis testing (Modeling and Simulation course)
 
+NOTE:
+    Those .autoenv* files are for automating the venv activation
+    (if you created one).  These only works if you are using ZSH
+    and has the zsh-autoenv plugin:
+        https://github.com/Tarrasch/zsh-autoenv
